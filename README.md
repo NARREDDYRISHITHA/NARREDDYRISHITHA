@@ -13,7 +13,7 @@
 - Frontend Development  
 - Machine Learning  
 
--📄 **[Check out my Resume](https://drive.google.com/file/d/1pzo8XQqzukoXrlwraBiVl76y10_0tkHf/view?usp=sharing)**  
+-📄 **[Check out my Resume](https://drive.google.com/file/d/1WbReRqPY_Jpy2f9JHEVTaCwZfOGE-uJV/view?usp=sharing)**  
 
 ---
 
