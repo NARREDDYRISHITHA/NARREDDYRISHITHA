@@ -3,6 +3,10 @@
 
 -👩‍🎓 CSE undergraduate at **Kalasalingam Academy of Research and Education** *(2022–2026)*
 
+-**Java Full Stack Training** - *Wipro*  
+  *📅 September 2025 – November 2025*
+- Currently undergoing hands-on training in Java Full Stack Development
+
 -🔬 **Past Experience**  
 - 🧪 Research Student at **MulticoreWare**
 
